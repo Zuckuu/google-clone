@@ -29,14 +29,13 @@ header {
 
 /*setting H&W&padding*/
 .navbar {
-    height: 100%;
+    
     width: 100%;
     padding: 10px 20px;
 }
 
 /*making list into horizontal*/
 .navbar ul {
-    height: 100%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
